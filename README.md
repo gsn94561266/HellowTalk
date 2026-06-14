@@ -4,9 +4,6 @@
 
 <img decoding="async" src="HellowTalk-fe/public/images/index.png" width="100%">
 
->點此查看後端
-https://github.com/gsn94561266/HellowTalk-be
-
 ## 使用技術
 
 - React.js
