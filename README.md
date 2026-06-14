@@ -2,7 +2,7 @@
 
 ## 預覽
 
-<img decoding="async" src="public/images/index.png" width="100%">  
+<img decoding="async" src="HellowTalk-fe/public/images/index.png" width="100%">
 
 >點此查看後端
 https://github.com/gsn94561266/HellowTalk-be
